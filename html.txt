@@ -1,0 +1,51 @@
+<html>
+    <head>
+        <title>NEVERLAND</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="container">
+            <div class="header">
+                <h1 class="judul">NEVERLAND</h1>
+                <ul>
+                    <li><a href="#">home</a></li>
+                    <li><a href="#about">about</a></li>
+                    <li><a href="#products">products</a></li>
+                    <li><a href="#">contact us</a></li>
+                </ul>
+            </div>
+            <div class="banner"></div>
+            <div class="isi">
+                <h2>JUDUL ....</h2>
+                <p class="penulis">ditulis oleh anonim</p>
+                <p>ayam 1</p>
+                <p>ayam 2</p>
+                <p>ayam 3</p>
+                <p>ayam 4</p>
+            </div>
+            <section id="about">
+                <div class="isi">
+                    <h2>About</h2>
+                    <p class="penulis">ditulis oleh anonim</p>
+                    <p>ayam 1</p>
+                    <p>ayam 2</p>
+                    <p>ayam 3</p>
+                    <p>ayam 4</p>
+                </div>
+            </section>
+            <section id="products">
+                <div class="isi">
+                    <h2>Products</h2>
+                    <p class="penulis">ditulis oleh anonim</p>
+                    <p>ayam 1</p>
+                    <p>ayam 2</p>
+                    <p>ayam 3</p>
+                    <p>ayam 4</p>
+                </div>  
+            </section>
+            <div class="footer">
+                <p class="copy">Copyrigth 2021. NEVERLAND.CO</p>
+            </div>
+        </div>
+    </body>
+</html>
